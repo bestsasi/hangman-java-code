@@ -183,7 +183,7 @@ public class Hangman {
 			System.out.println();
 			System.out.println("The word was " + word);
 			
-			System.out.println();
+		System.out.println();
 		System.out.println("   *****    ***   *     * ******     ***    **  ** ****** *****");
 		System.out.println("  **   **  ** **  **   ** **       **   **  **  ** **	  **  **");
 		System.out.println("  **      **   ** *** *** **      **     ** **  ** **	  **  **");

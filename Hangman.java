@@ -193,5 +193,5 @@ public class Hangman {
 		System.out.println("   *****  **   ** **   ** ******     ***      **   ****** **  **");
 		System.out.println();
 		}
-	}
-}
+	}//hangmanImage
+}//class
